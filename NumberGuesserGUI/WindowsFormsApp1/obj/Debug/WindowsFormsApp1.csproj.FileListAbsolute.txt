@@ -1,0 +1,11 @@
+C:\Daten\BBBaden\Lernatelier_2\LA-1\NumberGuesserGUI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Daten\BBBaden\Lernatelier_2\LA-1\NumberGuesserGUI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Daten\BBBaden\Lernatelier_2\LA-1\NumberGuesserGUI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Daten\BBBaden\Lernatelier_2\LA-1\NumberGuesserGUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Daten\BBBaden\Lernatelier_2\LA-1\NumberGuesserGUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Daten\BBBaden\Lernatelier_2\LA-1\NumberGuesserGUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Daten\BBBaden\Lernatelier_2\LA-1\NumberGuesserGUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Daten\BBBaden\Lernatelier_2\LA-1\NumberGuesserGUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Daten\BBBaden\Lernatelier_2\LA-1\NumberGuesserGUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Daten\BBBaden\Lernatelier_2\LA-1\NumberGuesserGUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Daten\BBBaden\Lernatelier_2\LA-1\NumberGuesserGUI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
